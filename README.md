@@ -1,7 +1,7 @@
 # qGauss_luminosity
 **Luminosity for q-Gaussian distribution functions in the transverse plane, for identical beams colliding head-on**\
-See Mathematica notebook for the solution of the luminosity integrals: Lumiqgauss.nb\
-See python script for the impact of the tails on the luminosity, for various cases, together with the validation when comparing to Gaussian luminosities: Lumi_qGaussian_cases.ipynb
+-See Mathematica notebook for the solution of the luminosity integrals: Lumiqgauss.nb\
+-See python script for the impact of the tails on the luminosity, for various cases, together with the validation when comparing to Gaussian luminosities: Lumi_qGaussian_cases.ipynb
 ***
 The analytical luminosity calculation for q-Gaussian distribtuions (see https://arxiv.org/pdf/1806.07317.pdf) is based on:\
     -q-Gaussian sigmas of the distributions\
